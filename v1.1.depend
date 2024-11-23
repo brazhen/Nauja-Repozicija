@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1732377643 source:c:\users\nagli\onedrive\desktop\v1.1\main.cpp
+	"Mylib.h"
+	"Stud.h"
+	<chrono>
+
+1732372227 c:\users\nagli\onedrive\desktop\v1.1\mylib.h
+	<iostream>
+	<vector>
+	<list>
+	<string>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<chrono>
+	<stdexcept>
+	<random>
+	<functional>
+	<limits>
+	<iterator>
+
+1732377891 c:\users\nagli\onedrive\desktop\v1.1\stud.h
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	"Mylib.h"
+
+1732284122 c:\users\nagli\onedrive\desktop\v1.1\stud.cpp
+	"Mylib.h"
+	"Stud.h"
+	<random>
+
+1732377172 source:c:\users\nagli\onedrive\desktop\v1.1\stud.cpp
+	"Stud.h"
+	<random>
+	<fstream>
+	<sstream>
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<numeric>
+	<list>
+	<vector>
+
