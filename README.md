@@ -12,6 +12,7 @@ Norint sėkmingai paleisti šią programą, reikalinga CMake įrankio versija 3.
 
 1. Atsisiųskite projekto kodą iš GitHub ar kitos saugyklos.
 2. Įsitikinkite, kad jūsų sistemoje įdiegtas CMake ir tinkamas C++ kompiliatorius.
+3. Į programos aplanką atsisiųskite gtest
 
 ### Programos kompiliavimas
 
